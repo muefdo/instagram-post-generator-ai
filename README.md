@@ -1,4 +1,4 @@
-**AI Post Generator
+##AI Post Generator
  This project hosts a bot designed to generate prompts for image creation and craft corresponding post descriptions. With the help of cron jobs, it automates the process of generating and posting content regularly. Automated bot for generating daily image prompts and crafting post descriptions. Powered by ChatGPT and OpenAI api. 
 
 **Getting Started
